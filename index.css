@@ -1,0 +1,9 @@
+#quote-box {
+    width: 600px;
+}
+
+/* Media query for medium-sized screens */
+@media (min-width: 768px) {}
+
+/* Media query for larger screens */
+@media (min-width: 992px) {}
